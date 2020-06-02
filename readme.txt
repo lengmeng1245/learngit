@@ -12,7 +12,11 @@ Trying git switch.
 Creating a new branch is quick and simple.
 模糊
 <<<<<<< HEAD
+<<<<<<< HEAD
 git is a free software...
 =======
 >>>>>>> 189fff3... add merge
 的确困得很
+=======
+git is a free software...
+>>>>>>> 767b59e... fix bug 101
