@@ -11,4 +11,7 @@ Creating a new branch is quick.
 Trying git switch.
 Creating a new branch is quick and simple.
 模糊
+<<<<<<< HEAD
 git is a free software...
+=======
+>>>>>>> 189fff3... add merge
